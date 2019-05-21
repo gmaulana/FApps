@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AKB Gilang</string>
+    <string name="red">Merah</string>
+    <string name="blue">Biru</string>
+    <string name="green">Hijau</string>
+
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="friend">Friend</string>
+    <string name="contact">Contact</string>
+
+    <string name="gils">088229197688</string>
+</resources>

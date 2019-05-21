@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color1">#365382</color>
+    <color name="color2">#34d3bb</color>
+    <color name="color3">#6cd883</color>
+    <color name="color4">#02f9e1</color>
+    <color name="grey_60">#dedfe0</color>
+
+    <color name="colorNavigationIcon">#dae9f6</color>
+    <color name="colorNavigationText">#ffffff</color>
+
+    <!--gradient-->
+    <color name="ba1">#25E8D8</color>
+    <color name="ba2">#DA44EB</color>
+    <color name="ba3">#006475</color>
+    <color name="ba4">#AF60F0</color>
+</resources>
