@@ -14,6 +14,7 @@ import android.widget.Button;
 
 import com.noobdev.gilang.R;
 import com.noobdev.gilang.presenter.CustomPagerAdapter;
+import com.noobdev.gilang.views.LoginActivity;
 import com.noobdev.gilang.views.MainActivity;
 
 import java.lang.reflect.Method;
@@ -31,7 +32,7 @@ public class MainSlider extends AppCompatActivity {
    }
 
     public void mulai (View view) {
-        Intent intent = new Intent(MainSlider.this, MainActivity.class);
+        Intent intent = new Intent(MainSlider.this, LoginActivity.class);
         startActivity(intent);
     }
 }

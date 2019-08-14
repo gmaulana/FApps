@@ -7,7 +7,7 @@
     <color name="color2">#34d3bb</color>
     <color name="color3">#6cd883</color>
     <color name="color4">#02f9e1</color>
-    <color name="grey_60">#dedfe0</color>
+    <color name="grey_60">#d7d2cc</color>
 
     <color name="colorNavigationIcon">#dae9f6</color>
     <color name="colorNavigationText">#ffffff</color>
@@ -17,4 +17,7 @@
     <color name="ba2">#DA44EB</color>
     <color name="ba3">#006475</color>
     <color name="ba4">#AF60F0</color>
+    <color name="ba5">#C6FFDD</color>
+    <color name="ba6">#f7797d</color>
+    <color name="ba7">#FBD786</color>
 </resources>

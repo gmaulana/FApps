@@ -9,8 +9,19 @@
     >
 
     <android.support.v7.widget.RecyclerView
+        android:layout_marginTop="40dp"
         android:id="@+id/recycler_view"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="300dp" />
+
+    <Button
+        android:id="@+id/btntambah"
+        android:layout_width="match_parent"
+        android:background="@drawable/custom2"
+        android:layout_height="wrap_content"
+        android:text="Tamabah Teman"
+        android:layout_marginTop="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/recycler_view"/>
 
 </RelativeLayout>
